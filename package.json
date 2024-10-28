@@ -1,5 +1,5 @@
 {
-	"name": "aksel",
+	"name": "raksel",
 	"version": "0.1.1",
 	"description": "An AI agent framework for typescript",
 	"keywords": [
@@ -8,14 +8,14 @@
 		"AI agent framework"
 	],
 	"main": "dist/index.js",
-	"homepage": "https://github.com/iyifr/aksel",
+	"homepage": "https://github.com/iyifr/raksel",
 	"bugs": {
-		"url": "https://github.com/iyifr/aksel/issues"
+		"url": "https://github.com/iyifr/raksel/issues"
 	},
 	"author": "Adekile Iyimide",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/iyifr/aksel.git"
+		"url": "git+https://github.com/iyifr/raksel.git"
 	},
 	"files": [
 		"dist"
